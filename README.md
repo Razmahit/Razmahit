@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Razmahit
-
+- Ask me about Java Script
 
 <!---
 Razmahit/Razmahit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
